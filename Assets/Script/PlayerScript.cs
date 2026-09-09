@@ -32,6 +32,7 @@ public class PlayerScript : MonoBehaviour
         switch (is2D)
         {
             case false:
+                rb.linearVelocity = new Vector2(0,0);
                 rb.gravityScale = 0;
                 gameObject.transform.position += new Vector3(_movement.x * movementSpeed * Time.deltaTime, _movement.y * movementSpeed * Time.deltaTime, 0);
                 break;
