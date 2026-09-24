@@ -885,7 +885,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!114 &1322054487
 MonoBehaviour:
@@ -934,10 +934,8 @@ MonoBehaviour:
   jumpSpeed: 10
   move: {fileID: -7554496200802205431, guid: 480de65e76a33b67ca089b8ea0ede183, type: 3}
   jump: {fileID: 883525169494777570, guid: 480de65e76a33b67ca089b8ea0ede183, type: 3}
-  switch2D: {fileID: -448192667431452344, guid: 480de65e76a33b67ca089b8ea0ede183, type: 3}
   logic: {fileID: 0}
   alive: 1
-  is2D: 0
 --- !u!50 &1322054489
 Rigidbody2D:
   serializedVersion: 5
@@ -1033,7 +1031,7 @@ Transform:
   m_GameObject: {fileID: 1322054486}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 10.06}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
