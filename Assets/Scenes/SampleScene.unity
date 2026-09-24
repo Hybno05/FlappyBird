@@ -932,9 +932,9 @@ MonoBehaviour:
   playerRigidbody: {fileID: 1322054489}
   movementSpeed: 10
   jumpSpeed: 10
-  move: {fileID: -7554496200802205431, guid: 480de65e76a33b67ca089b8ea0ede183, type: 3}
-  jump: {fileID: 883525169494777570, guid: 480de65e76a33b67ca089b8ea0ede183, type: 3}
-  switch2D: {fileID: -448192667431452344, guid: 480de65e76a33b67ca089b8ea0ede183, type: 3}
+  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  switch2D: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   logic: {fileID: 0}
   alive: 1
   is2D: 0
